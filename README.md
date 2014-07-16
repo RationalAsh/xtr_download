@@ -1,4 +1,4 @@
 xtr_download
 ============
 
-A script do download pdfs from the xtremepapers website.
+A script to download pdfs from the xtremepapers website.
