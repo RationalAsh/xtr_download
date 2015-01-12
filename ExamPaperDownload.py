@@ -99,6 +99,6 @@ papers = []
 #Fill the list with download links
 papers = find_all_pdfs(html_rev, url)
 #For testing purposes
-tes_papers = papers[0:3]
+#tes_papers = papers[0:3]
 #function that downloads all the files in the list
-download_all_files(tes_papers)
+download_all_files(papers)
